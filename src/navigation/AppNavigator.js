@@ -42,5 +42,17 @@ const switchNavigator=createSwitchNavigator(
 
 const AppNavigation = createAppContainer(switchNavigator);
 
+  class AppNavigator extends Component{
+    render() {
+        return (
+            <AppNavigation/>
+        );
+    }
 
-export default AppNavigation;
+}
+//export default AppNavigation;
+
+export default connect(
+    null,
+    null
+)(AppNavigator);
