@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dipanshujindal/Documents/projects/React-native/NyTimes/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/Users/ranjit.singh/clientprojects/Ny-Times-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/dipanshujindal/.gradle/caches/transforms-2/files-2.1/008cd8db50bd5edef1517a379dbb6dcb/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/Users/ranjit.singh/.gradle/caches/transforms-2/files-2.1/a8f891cc040512e0a2376fd6a6d9f8bc/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

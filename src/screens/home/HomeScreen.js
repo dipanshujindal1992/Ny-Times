@@ -40,7 +40,8 @@ class HomeScreen extends Component {
         }else {
             this.setState({isRefreshing: true});
         }
-        this.props.fetchHomeData('all-sections', this.props.navigation.state.params.period);
+        //this.props.navigation.state.params.period
+        this.props.fetchHomeData('all-sections', '1');
     }
 
     static getDerivedStateFromProps(nextProps, prevState) {
