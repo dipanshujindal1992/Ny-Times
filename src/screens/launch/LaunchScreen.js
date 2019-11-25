@@ -8,8 +8,6 @@ export default class LaunchScreen extends  React.Component{
         super(props)
         this.state={
             period:''
-
-
         }
     }
 
