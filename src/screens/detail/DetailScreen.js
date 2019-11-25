@@ -71,13 +71,9 @@ class DetailScreen extends Component {
 
 
 const mapStateToProps = (state) => {
-   // alert("Response-->>"+JSON.stringify(state.HomeReducer.response.articles))
 
     return {
-        onLoading: false,
-        newsHeadline: state.HomeReducer
-
-
+        mostPopularData: state.HomeReducer
     };
 };
 
